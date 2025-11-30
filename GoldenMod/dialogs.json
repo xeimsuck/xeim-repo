@@ -1,0 +1,54 @@
+[
+  {
+    "id": 1,
+    "title": "Новая версия!",
+    "message": "Вышла новая версия TikTok v42.6.7. Обновите за 1 минуту через наш телеграмм канал!",
+    "min_version": 1,
+    "show_after": 0,
+    "active": true,
+    "buttons": [
+      {
+        "title": "Позже",
+        "active_after": 0,
+        "type": "CLOSE",
+        "data": {},
+        "color": "#A0A0A0"
+      },
+      {
+        "title": "Обновить",
+        "active_after": 0,
+        "type": "URL",
+        "data": {
+          "url": "https://t.me/TikTokGoldenMod"
+        },
+        "color": "#3782F8"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "title": "Какая-то интересная реклама",
+    "message": "Ненамокающая губка! Только сегодня, успейте купить всего за 5000р",
+    "show_after": 0,
+    "active": true,
+    "min_version": 0,
+    "buttons": [
+      {
+        "title": "Нет, спасибо",
+        "active_after": 0,
+        "type": "CLOSE",
+        "data": {},
+        "color": "#A0A0A0"
+      },
+      {
+        "title": "Наш телеграм",
+        "active_after": 0,
+        "type": "URL",
+        "data": {
+          "url": "https://t.me/TikTokGoldenMod"
+        },
+        "color": "#3782F8"
+      }
+    ]
+  }
+]
