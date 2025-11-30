@@ -3,7 +3,7 @@
     "id": 1,
     "title": "Новая версия!",
     "message": "Вышла новая версия TikTok v42.6.7. Обновите за 1 минуту через наш телеграмм канал!",
-    "min_version": 1,
+    "min_version": 0,
     "show_after": 0,
     "active": true,
     "buttons": [
