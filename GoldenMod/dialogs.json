@@ -3,7 +3,7 @@
     "id": 1,
     "title": "Новая версия!",
     "message": "Вышла новая версия TikTok v42.6.7. Обновите за 1 минуту через наш телеграмм канал!",
-    "min_version": 0,
+    "min_version": 1,
     "show_after": 0,
     "active": true,
     "buttons": [
@@ -35,7 +35,7 @@
     "buttons": [
       {
         "title": "Нет, спасибо",
-        "active_after": 0,
+        "active_after": 3,
         "type": "CLOSE",
         "data": {},
         "color": "#A0A0A0"
