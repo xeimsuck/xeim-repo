@@ -1,15 +1,15 @@
 [
   {
-    "id": 1,
+    "id": 0,
     "title": "Новая версия!",
     "message": "Вышла новая версия TikTok v42.6.7. Обновите за 1 минуту через наш телеграмм канал!",
-    "min_version": 2024109060,
+    "min_version": 2024109050,
     "show_after": 432000,
     "active": true,
     "buttons": [
       {
         "title": "Позже",
-        "active_after": 0,
+        "active_after": 1,
         "type": "CLOSE",
         "data": {},
         "color": "#A0A0A0"
@@ -30,7 +30,7 @@
     "title": "Какая-то интересная реклама",
     "message": "Ненамокающая губка! Только сегодня, успейте купить всего за 5000р",
     "show_after": 0,
-    "active": true,
+    "active": false,
     "min_version": 0,
     "buttons": [
       {
