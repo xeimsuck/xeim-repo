@@ -1,0 +1,55 @@
+[
+  {
+    "id": 1,
+    "title": "Новая версия!",
+    "message": "Вышла новая версия TikTok v99.99.99. Обновите за 1 минуту через наш телеграмм канал!",
+    "min_version": 9024109050,
+    "show_after": 432000,
+    "active": true,
+    "buttons": [
+      {
+        "title": "Позже",
+        "active_after": 1,
+        "type": "CLOSE",
+        "data": {},
+        "color": "#A0A0A0"
+      },
+      {
+        "title": "Обновить",
+        "active_after": 0,
+        "type": "URL",
+        "data": {
+          "url": "https://t.me/TikTokGoldenMod"
+        },
+        "color": "#3782F8"
+      }
+    ]
+  },
+
+  {
+    "id": 1,
+    "title": "Наш мод",
+    "message": "Скачайте наш мод блаблабла",
+    "min_version": 0,
+    "show_after": 0,
+    "active": true,
+    "buttons": [
+      {
+        "title": "Позже",
+        "active_after": 3,
+        "type": "CLOSE",
+        "data": {},
+        "color": "#A0A0A0"
+      },
+      {
+        "title": "Обновить",
+        "active_after": 0,
+        "type": "URL",
+        "data": {
+          "url": "https://t.me/TikTokGoldenMod"
+        },
+        "color": "#3782F8"
+      }
+    ]
+  }
+]
